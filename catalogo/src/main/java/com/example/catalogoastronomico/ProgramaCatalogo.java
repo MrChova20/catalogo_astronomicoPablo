@@ -1,14 +1,9 @@
+/*
 package com.example.catalogoastronomico;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-/**
- *
- * @author (iip)
- * @version (2019)
- *
- */
 
 public class ProgramaCatalogo {
 
@@ -153,3 +148,4 @@ public class ProgramaCatalogo {
         };
     }
 }
+*/
